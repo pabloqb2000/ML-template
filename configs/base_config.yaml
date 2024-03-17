@@ -1,4 +1,4 @@
-name: Pseudo-ct_02
+name: Experiment-name
 data:
   path: ./data/
   batch_size: 32
